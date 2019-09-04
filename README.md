@@ -15,6 +15,7 @@
     |---|---|---|---|
     |名称|统计用区划代码(12位)|父级区划代码|层级|
     
+* new 增加first字段为名称的大写首字母,对应文件为`areaWithFirstAlpha.json`,需要单独调用脚本`getFirstAlpha.py`
 
 ## 用法
 
